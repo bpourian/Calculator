@@ -1,3 +1,3 @@
 # Calculator
 Project Zero
-first upload to git - 
+first upload to git - simple windows calculator. 
